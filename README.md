@@ -50,7 +50,8 @@ Case Study Artifacts:
 5. Data_Dictionary.xlsx
 
 Author:
-Alok Kumar 
-Pradip Tiwari
+
+1. Alok Kumar
+2. Pradip Tiwari
 
 
